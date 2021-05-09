@@ -199,12 +199,12 @@
 	],
 	"Addons": [{
       "id":1,
-      "nama_add":"Sonics Addon",
-      "add_url":"-",
-      "addB_url":"https://ia601507.us.archive.org/31/items/sncmap1/Sonic%20Addon%20%5BB%5D.mcpack",
-      "addR_url":"https://ia601507.us.archive.org/31/items/sncmap1/Sonic%20Addon%20%5BR%5D.mcpack",
-      "view_add":"https://raw.githubusercontent.com/bro-cell/soniiksbum/main/snikadon.JPG",
-      "des_add":"https://raw.githubusercontent.com/bro-cell/soniiksbum/main/snikadon.JPG"
+      "nama_add":"Ben 10 Addon UPDATE",
+      "add_url":"https://ia801406.us.archive.org/6/items/benlien/Ben10%20Add-on%20V3.zip",
+      "addB_url":"https://ia801406.us.archive.org/6/items/benlien/B10%20Behavior%20Pack.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/6/items/benlien/B10%20Resource%20Pack.mcpack",
+      "view_add":"https://my.mcpedl.com/storage/addons/2479/images/ben-10-addon-v30-new-aliens-and-villains-update-11640_10.png",
+      "des_add":"https://my.mcpedl.com/storage/addons/2479/images/ben-10-addon-v30-new-aliens-and-villains-update-11640_10.png"
     },
     {
       "id":2,
@@ -353,10 +353,10 @@
 	],
 	"Maps": [{
       "id":1,
-      "nama_map":"The WereWolves",
-      "map_url":"https://ia801505.us.archive.org/27/items/wirwolp/The%20Werewolves.zip",
-      "view_map":"https://my.mcpedl.com/storage/worlds/4530/images/the-werewolves_8.png",
-      "des_map":"https://my.mcpedl.com/storage/worlds/4530/images/the-werewolves_8.png"
+      "nama_map":"Ben 10 Maps",
+      "map_url":"https://ia801406.us.archive.org/6/items/benlien/Ben10Maps.zip",
+      "view_map":"https://my.mcpedl.com/storage/addons/2479/images/ben-10-addon_35.png",
+      "des_map":"https://my.mcpedl.com/storage/addons/2479/images/ben-10-addon_35.png"
     },
 	{
 			"id": 2,
